@@ -66,3 +66,7 @@ This project demonstrates practical Excel analytics and dashboarding skills thro
 ## Healthcare Dashboard Overview 2
 
 ![Health Analysis 2](screenshots/Health_Analysis_2.png)
+
+## Healthcare Dashboard Overview 3
+
+![Health Analysis 3](screenshots/Health_Analysis_3.png)
