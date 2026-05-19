@@ -53,3 +53,31 @@ This project focuses on analyzing Hepatitis C data to uncover trends, evaluate m
 ## Conclusion
 
 This project demonstrates practical Python data analytics and visualization skills through healthcare-focused exploratory data analysis and statistical insight generation.
+
+---
+
+# Analysis Preview
+
+## Preview 1
+
+![HCV 1](screenshots/HCV_1.png)
+
+## Preview 2
+
+![HCV 2](screenshots/HCV_2.png)
+
+## Preview 3
+
+![HCV 3](screenshots/HCV_3.png)
+
+## Preview 4
+
+![HCV 4](screenshots/HCV_4.png)
+
+## Preview 5
+
+![HCV 5](screenshots/HCV_5.png)
+
+## Preview 6
+
+![HCV 6](screenshots/HCV_6.png)
