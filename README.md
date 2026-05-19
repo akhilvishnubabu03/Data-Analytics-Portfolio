@@ -59,59 +59,67 @@ Transforming raw data into actionable business insights through analytics, visua
 ---
 
 # 📂 Portfolio Projects
+<p align="center">
+
+<a href="#-power-bi-projects">📊 Power BI</a> •
+<a href="#-python-projects">🐍 Python</a> •
+<a href="#-sql-projects">🗄️ SQL</a> •
+<a href="#-excel-projects">📈 Excel</a>
+
+</p>
 
 # Portfolio Projects
 
-## Power BI Projects
+# 📊 Power BI Projects
 
-### HR Analytics Dashboard
+### 🔗 [HR Analytics Dashboard](./Power%20BI%20Projects/HR%20Analytics%20Dashboard)
 - Employee attrition analysis
 - KPI reporting
 - Interactive dashboard development
 
-### Laptop Sales Analytics Dashboard
+### 🔗 [Laptop Sales Analytics Dashboard](./Power%20BI%20Projects/Laptop%20Sales%20Analytics%20Dashboard)
 - Sales trend analysis
 - Revenue insights
 - Product performance reporting
 
-### Logistics & Fleet Analytics Dashboard
+### 🔗 [Logistics & Fleet Analytics Dashboard](./Power%20BI%20Projects/Logistics%20%26%20Fleet%20Analytics%20Dashboard)
 - Transportation analytics
 - Fleet KPI monitoring
 - Operational performance insights
 
 ---
 
-## Python Projects
+# 🐍 Python Projects
 
-### Marketing Campaign Performance Analysis
+### 🔗 [Marketing Campaign Performance Analysis](./Python%20Projects/Marketing%20Campaign%20Performance%20Analysis)
 - Exploratory data analysis
 - Marketing analytics
 - Customer engagement insights
 
-### Hepatitis C Data Analysis
+### 🔗 [Hepatitis C Data Analysis](./Python%20Projects/Hepatitis%20C%20Data%20Analysis)
 - Healthcare analytics
 - Statistical analysis
 - Data visualization
 
 ---
 
-## SQL Projects
+# 🗄️ SQL Projects
 
-### E-commerce Customer Churn Analysis
+### 🔗 [E-commerce Customer Churn Analysis](./SQL%20Projects/E-commerce%20Customer%20Churn%20Analysis)
 - Customer retention analysis
 - SQL business insights
 - KPI reporting
 
 ---
 
-## Excel Projects
+# 📈 Excel Projects
 
-### Healthcare Data Analysis
+### 🔗 [Healthcare Data Analysis](./Excel%20Projects/Healthcare%20Data%20Analysis%20Excel)
 - Dashboard reporting
 - Pivot table analysis
 - KPI tracking
 
-### Nykaa Sales Analysis
+### 🔗 [Nykaa Sales Analysis](./Excel%20Projects/Nykaa%20Sales%20Analysis%20Excel)
 - Retail sales analytics
 - Excel dashboards
 - Sales trend reporting
