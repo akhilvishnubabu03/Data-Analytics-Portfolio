@@ -54,3 +54,15 @@ This project focuses on performing healthcare analytics using Excel for reportin
 ## Conclusion
 
 This project demonstrates practical Excel analytics and dashboarding skills through healthcare-focused reporting, KPI analysis, and business insight generation.
+
+---
+
+# Dashboard Preview
+
+## Healthcare Dashboard Overview 1
+
+![Health Analysis 1](screenshots/Health_Analysis_1.png)
+
+## Healthcare Dashboard Overview 2
+
+![Health Analysis 2](screenshots/Health_Analysis_2.png)
