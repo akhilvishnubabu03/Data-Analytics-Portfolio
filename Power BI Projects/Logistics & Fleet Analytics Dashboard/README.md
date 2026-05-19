@@ -56,4 +56,4 @@ This project demonstrates practical business intelligence and transportation ana
 
 ## Fleet Operations & KPI Analysis
 
-![Logistics & Fleet 2](screenshots/Logistics_&_Fleet_2.png)
+![Logistics & Fleet 1](screenshots/Logistics_&_Fleet_2.png)
