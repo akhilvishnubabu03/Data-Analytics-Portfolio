@@ -45,3 +45,15 @@ This project aims to analyze transportation and fleet data to identify operation
 ## Conclusion
 
 This project demonstrates practical business intelligence and transportation analytics skills using Power BI, focusing on logistics monitoring, operational KPI analysis, and interactive dashboard development.
+
+---
+
+# Dashboard Preview
+
+## Logistics & Fleet Dashboard - Overview
+
+![Logistics & Fleet 1](screenshots/Logistics & Fleet 1.png)
+
+## Fleet Operations & KPI Analysis
+
+![Logistics & Fleet 2](screenshots/Logistics & Fleet 2.png)
