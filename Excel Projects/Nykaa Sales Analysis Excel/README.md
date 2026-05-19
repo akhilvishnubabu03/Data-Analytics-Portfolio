@@ -54,3 +54,23 @@ This project focuses on analyzing Nykaa sales data using Excel to generate busin
 ## Conclusion
 
 This project demonstrates practical Excel analytics and dashboarding skills through retail-focused sales reporting, KPI analysis, and business insight generation.
+
+---
+
+# Dashboard Preview
+
+## Nykaa Sales Dashboard Overview 1
+
+![Nykaa 1](screenshots/Nykaa_1.png)
+
+## Nykaa Sales Dashboard Overview 2
+
+![Nykaa 2](screenshots/Nykaa_2.png)
+
+## Nykaa Sales Dashboard Overview 3
+
+![Nykaa 3](screenshots/Nykaa_3.png)
+
+## Nykaa Sales Dashboard Overview 4
+
+![Nykaa 4](screenshots/Nykaa_4.png)
