@@ -52,4 +52,32 @@ This project focuses on analyzing campaign performance metrics to uncover trends
 
 ## Conclusion
 
-This project demonstrates practical data analytics and exploratory data analysis skills using Python, focusing on marketing analytics, visualization, and business insight generation.
+This project demonstrates practical data analytics and exploratory data analysis skills using Python, focusing on marketing analytics, visualization, and business insight generation. 
+
+---
+
+# Analysis Preview
+
+## Preview 1
+
+![Marketing Campaign 1](screenshots/Marketing_Campaign_1.png)
+
+## Preview 2
+
+![Marketing Campaign 2](screenshots/Marketing_Campaign_2.png)
+
+## Preview 3
+
+![Marketing Campaign 3](screenshots/Marketing_Campaign_3.png)
+
+## Preview 4
+
+![Marketing Campaign 4](screenshots/Marketing_Campaign_4.png)
+
+## Preview 5
+
+![Marketing Campaign 5](screenshots/Marketing_Campaign_5.png)
+
+## Preview 6
+
+![Marketing Campaign 6](screenshots/Marketing_Campaign_6.png)
