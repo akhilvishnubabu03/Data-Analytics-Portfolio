@@ -52,8 +52,8 @@ This project demonstrates practical business intelligence and transportation ana
 
 ## Logistics & Fleet Dashboard - Overview
 
-![Logistics & Fleet 1](screenshots/Logistics_&_Fleet_1.png)
+![Logistics & Fleet 1](screenshots/Logistics_Fleet_1.png)
 
 ## Fleet Operations & KPI Analysis
 
-![Logistics & Fleet 1](screenshots/Logistics_&_Fleet_2.png)
+![Logistics & Fleet 2](screenshots/Logistics_Fleet_2.png)
