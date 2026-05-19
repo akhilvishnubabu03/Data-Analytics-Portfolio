@@ -1,36 +1,50 @@
-# Data Analytics Portfolio
+<h1 align="center">📊 Data Analytics Portfolio</h1>
 
-## About Me
+<h3 align="center">
+Aspiring Data Analyst | Power BI | Python | SQL | Excel
+</h3>
 
-Aspiring Data Analyst skilled in Power BI, Python, SQL, and Excel with hands-on experience in data visualization, dashboard development, exploratory data analysis, KPI reporting, and business intelligence projects.
+<p align="center">
+Transforming raw data into actionable business insights through analytics, visualization, and reporting.
+</p>
 
-Passionate about transforming raw data into actionable business insights through analytics, visualization, and reporting.
+---
+
+## 🚀 About Me
+
+- 📊 Aspiring Data Analyst passionate about Business Intelligence and Data Visualization
+- 📈 Skilled in Power BI, Python, SQL, and Excel
+- 📉 Experienced in dashboard development, KPI reporting, and exploratory data analysis
+- 🧠 Interested in business analytics, healthcare analytics, sales analytics, predictive analysis and reporting
+- 🎯 Focused on transforming data into meaningful insights
 
 ---
 
-# Skills & Technologies
+## 🛠️ Tools & Technologies
 
-- Power BI
-- Python
-- SQL
-- Microsoft Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- DAX
-- Power Query
-- KPI Tracking
-- Data Cleaning
-- Data Visualization
-- Predictive Analysis
-- Machine Learning
-- Business Intelligence
-- Dashboard Development
-- KPI Reporting
-- Exploratory Data Analysis (EDA)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
 
 ---
+
+# 📂 Portfolio Projects
 
 # Portfolio Projects
 
