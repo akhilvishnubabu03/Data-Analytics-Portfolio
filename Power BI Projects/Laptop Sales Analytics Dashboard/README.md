@@ -30,3 +30,19 @@ This project analyzes laptop sales data using Power BI to track sales performanc
 ## Conclusion
 
 This project demonstrates practical business intelligence and sales analytics skills using Power BI, focusing on KPI reporting and interactive dashboard development.
+
+---
+
+# Dashboard Preview
+
+## Amazon Laptop Sales Dashboard - Overview
+
+![Amazon Laptop Sales 1](screenshots/Amazon_Laptop_Sales_1.png)
+
+## Sales Performance & Insights
+
+![Amazon Laptop Sales 2](screenshots/Amazon_Laptop_Sales_2.png)
+
+## Revenue & Product Analysis
+
+![Amazon Laptop Sales 3](screenshots/Amazon_Laptop_Sales_3.png)
