@@ -32,3 +32,15 @@ The dashboard provides interactive visualizations and insights that help organiz
 ## Conclusion
 
 This project demonstrates practical business intelligence and dashboarding skills using Power BI, focusing on workforce analytics and interactive reporting.
+
+---
+
+# Dashboard Preview
+
+## HR Dashboard - Home Page
+
+![HR Dashboard Home](screenshots/HR_Dashboard_Home.png)
+
+## HR Dashboard - Analysis Page
+
+![HR Dashboard Next](screenshots/HR_Dashboard_Next.png)
