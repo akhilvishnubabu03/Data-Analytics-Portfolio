@@ -40,6 +40,20 @@ Transforming raw data into actionable business insights through analytics, visua
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 ---
