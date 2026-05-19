@@ -110,3 +110,4 @@ Passionate about transforming raw data into actionable business insights through
 
 - LinkedIn: www.linkedin.com/in/akhilvishnu-babu
 - GitHub Portfolio: https://github.com/akhilvishnubabu03
+- E-mail: akhilvishnubabu03@gmail.com
